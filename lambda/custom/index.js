@@ -207,22 +207,27 @@ const dedeData = {
 
 const enData = {
   translation: {
-    SKILL_NAME: 'Space Facts',
-    GET_FACT_MESSAGE: 'Here\'s your fact: ',
-    HELP_MESSAGE: 'You can say tell me a space fact, or, you can say exit... What can I help you with?',
+    SKILL_NAME: 'Steve Jobs Quotes',
+    GET_FACT_MESSAGE: 'Here\'s your quote: ',
+    HELP_MESSAGE: 'You can say tell me a Steve Jobs quote, or, you can say exit... What can I help you with?',
     HELP_REPROMPT: 'What can I help you with?',
-    FALLBACK_MESSAGE: 'The Space Facts skill can\'t help you with that.  It can help you discover facts about space if you say tell me a space fact. What can I help you with?',
+    FALLBACK_MESSAGE: 'The Steve Jobs quote skill can\'t help you with that.  It can help you discover quotes that Steve Jobs said if you say tell me a quote. What can I help you with?',
     FALLBACK_REPROMPT: 'What can I help you with?',
     ERROR_MESSAGE: 'Sorry, an error occurred.',
     STOP_MESSAGE: 'Goodbye!',
     FACTS:
-      [
-        'A year on Mercury is just 88 days long.',
-        'Despite being farther from the Sun, Venus experiences higher temperatures than Mercury.',
-        'On Mars, the Sun appears about half the size as it does on Earth.',
-        'Jupiter has the shortest day of all the planets.',
-        'The Sun is an almost perfect sphere.',
-      ],
+     [
+        'The doers are the major thinkers. The people that really create the things that change this industry are both the thinker and doer in one person.',
+        'In the broadest context, the goal is to seek enlightenment – however you define it.',
+        'If you don’t love it, you’re going to fail.',
+        'You have to believe that the dots will somehow connect in your future.',
+        'Ultimately, it comes down to taste. It comes down to trying to expose yourself to the best things that humans have done and then try to bring those things into what you’re doing.',
+        'I’m actually as proud of many of the things we haven’t done as the things we have done.',
+        'The most precious thing that we all have with us is time.',
+        'Don’t take it all too seriously. If you want to live your life in a creative way, as an artist, you have to not look back too much. You have to be willing to take whatever you’ve done and whoever you were and throw them away.',
+        'One way to remember who you are is to remember who your heroes are.',
+        'You have to trust in something, your gut, destiny, life, karma, whatever.'
+    ],
   },
 };
 
